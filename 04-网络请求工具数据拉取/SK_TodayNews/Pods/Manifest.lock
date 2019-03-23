@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.7.3)
+  - HandyJSON (4.1.3)
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - HandyJSON
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - HandyJSON
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  HandyJSON: bc81fbeb62d65ae5d5942ed29bc4a8265d18c1e8
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: 1b65d8706ac180e40faaf77df441484b07d30b56
+
+COCOAPODS: 1.5.0
