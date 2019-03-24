@@ -1,0 +1,10 @@
+target "SK_TodayNews"  do
+use_frameworks!
+
+pod 'Alamofire'
+pod 'SwiftyJSON'
+pod 'HandyJSON'
+pod 'Kingfisher'
+
+end
+
