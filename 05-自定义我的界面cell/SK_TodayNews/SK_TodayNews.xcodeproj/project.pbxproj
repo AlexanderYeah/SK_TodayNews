@@ -24,15 +24,15 @@
 		11838E2B2243205F00E097EE /* SK_TodayNewsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11838E2A2243205F00E097EE /* SK_TodayNewsUITests.swift */; };
 		1193C6E7224604B1000CDF7A /* NetTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1193C6E6224604B1000CDF7A /* NetTool.swift */; };
 		1193C6EC22461278000CDF7A /* MyCellModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1193C6EB22461278000CDF7A /* MyCellModel.swift */; };
-		1193C6F022467040000CDF7A /* MyOtherCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1193C6EE22467040000CDF7A /* MyOtherCell.swift */; };
-		1193C6F122467040000CDF7A /* MyOtherCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1193C6EF22467040000CDF7A /* MyOtherCell.xib */; };
-		1193C6F422472460000CDF7A /* MyConcernCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1193C6F222472460000CDF7A /* MyConcernCell.swift */; };
-		1193C6F522472460000CDF7A /* MyConcernCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1193C6F322472460000CDF7A /* MyConcernCell.xib */; };
-		1193C6F72247286D000CDF7A /* UIViw+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1193C6F62247286D000CDF7A /* UIViw+Extension.swift */; };
-		1193C6F922472905000CDF7A /* UITableView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1193C6F822472905000CDF7A /* UITableView+Extension.swift */; };
-		1193C6FB22472DA3000CDF7A /* UICollectionView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1193C6FA22472DA3000CDF7A /* UICollectionView+Extension.swift */; };
-		1193C6FE224789C4000CDF7A /* MyConcernCollectCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1193C6FC224789C4000CDF7A /* MyConcernCollectCell.swift */; };
-		1193C6FF224789C4000CDF7A /* MyConcernCollectCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1193C6FD224789C4000CDF7A /* MyConcernCollectCell.xib */; };
+		1193C70622491590000CDF7A /* MyOtherCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1193C7002249158F000CDF7A /* MyOtherCell.xib */; };
+		1193C70722491590000CDF7A /* MyConcernCollectCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1193C7012249158F000CDF7A /* MyConcernCollectCell.xib */; };
+		1193C70822491590000CDF7A /* MyConcernCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1193C70222491590000CDF7A /* MyConcernCell.xib */; };
+		1193C70922491590000CDF7A /* MyConcernCollectCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1193C70322491590000CDF7A /* MyConcernCollectCell.swift */; };
+		1193C70A22491590000CDF7A /* MyOtherCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1193C70422491590000CDF7A /* MyOtherCell.swift */; };
+		1193C70B22491590000CDF7A /* MyConcernCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1193C70522491590000CDF7A /* MyConcernCell.swift */; };
+		1193C70F224915B3000CDF7A /* UITableView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1193C70C224915B3000CDF7A /* UITableView+Extension.swift */; };
+		1193C710224915B3000CDF7A /* UICollectionView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1193C70D224915B3000CDF7A /* UICollectionView+Extension.swift */; };
+		1193C711224915B3000CDF7A /* UIViw+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1193C70E224915B3000CDF7A /* UIViw+Extension.swift */; };
 		B9219EB2B4C5A717522420D5 /* Pods_SK_TodayNews.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 76FAFCF99609AF83E77C6196 /* Pods_SK_TodayNews.framework */; };
 /* End PBXBuildFile section */
 
@@ -77,15 +77,15 @@
 		11838E2C2243205F00E097EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1193C6E6224604B1000CDF7A /* NetTool.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetTool.swift; sourceTree = "<group>"; };
 		1193C6EB22461278000CDF7A /* MyCellModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCellModel.swift; sourceTree = "<group>"; };
-		1193C6EE22467040000CDF7A /* MyOtherCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MyOtherCell.swift; path = ../../../../../../../../../Documents/MyOtherCell.swift; sourceTree = "<group>"; };
-		1193C6EF22467040000CDF7A /* MyOtherCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MyOtherCell.xib; path = ../../../../../../../../../Documents/MyOtherCell.xib; sourceTree = "<group>"; };
-		1193C6F222472460000CDF7A /* MyConcernCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MyConcernCell.swift; path = ../../../../../../../../../Documents/MyConcernCell.swift; sourceTree = "<group>"; };
-		1193C6F322472460000CDF7A /* MyConcernCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MyConcernCell.xib; path = ../../../../../../../../../Documents/MyConcernCell.xib; sourceTree = "<group>"; };
-		1193C6F62247286D000CDF7A /* UIViw+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "UIViw+Extension.swift"; path = "../../../../../../../../Documents/UIViw+Extension.swift"; sourceTree = "<group>"; };
-		1193C6F822472905000CDF7A /* UITableView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "UITableView+Extension.swift"; path = "../../../../../../../../Documents/UITableView+Extension.swift"; sourceTree = "<group>"; };
-		1193C6FA22472DA3000CDF7A /* UICollectionView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "UICollectionView+Extension.swift"; path = "../../../../../../../../Documents/UICollectionView+Extension.swift"; sourceTree = "<group>"; };
-		1193C6FC224789C4000CDF7A /* MyConcernCollectCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MyConcernCollectCell.swift; path = ../../../../../../../../../Documents/MyConcernCollectCell.swift; sourceTree = "<group>"; };
-		1193C6FD224789C4000CDF7A /* MyConcernCollectCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MyConcernCollectCell.xib; path = ../../../../../../../../../Documents/MyConcernCollectCell.xib; sourceTree = "<group>"; };
+		1193C7002249158F000CDF7A /* MyOtherCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MyOtherCell.xib; sourceTree = "<group>"; };
+		1193C7012249158F000CDF7A /* MyConcernCollectCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MyConcernCollectCell.xib; sourceTree = "<group>"; };
+		1193C70222491590000CDF7A /* MyConcernCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MyConcernCell.xib; sourceTree = "<group>"; };
+		1193C70322491590000CDF7A /* MyConcernCollectCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyConcernCollectCell.swift; sourceTree = "<group>"; };
+		1193C70422491590000CDF7A /* MyOtherCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyOtherCell.swift; sourceTree = "<group>"; };
+		1193C70522491590000CDF7A /* MyConcernCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyConcernCell.swift; sourceTree = "<group>"; };
+		1193C70C224915B3000CDF7A /* UITableView+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UITableView+Extension.swift"; sourceTree = "<group>"; };
+		1193C70D224915B3000CDF7A /* UICollectionView+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UICollectionView+Extension.swift"; sourceTree = "<group>"; };
+		1193C70E224915B3000CDF7A /* UIViw+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIViw+Extension.swift"; sourceTree = "<group>"; };
 		76FAFCF99609AF83E77C6196 /* Pods_SK_TodayNews.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SK_TodayNews.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA978617B3181A4FEF17D3D0 /* Pods-SK_TodayNews.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SK_TodayNews.release.xcconfig"; path = "Pods/Target Support Files/Pods-SK_TodayNews/Pods-SK_TodayNews.release.xcconfig"; sourceTree = "<group>"; };
 		BB7FDD56800A3398FAD58ADD /* Pods-SK_TodayNews.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SK_TodayNews.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SK_TodayNews/Pods-SK_TodayNews.debug.xcconfig"; sourceTree = "<group>"; };
@@ -231,9 +231,6 @@
 			children = (
 				112B86C622447D19002E3404 /* Extension */,
 				112B86C422447C18002E3404 /* Common.swift */,
-				1193C6F62247286D000CDF7A /* UIViw+Extension.swift */,
-				1193C6F822472905000CDF7A /* UITableView+Extension.swift */,
-				1193C6FA22472DA3000CDF7A /* UICollectionView+Extension.swift */,
 			);
 			path = Other;
 			sourceTree = "<group>";
@@ -293,6 +290,9 @@
 		112B86C622447D19002E3404 /* Extension */ = {
 			isa = PBXGroup;
 			children = (
+				1193C70D224915B3000CDF7A /* UICollectionView+Extension.swift */,
+				1193C70C224915B3000CDF7A /* UITableView+Extension.swift */,
+				1193C70E224915B3000CDF7A /* UIViw+Extension.swift */,
 				112B86C722447D28002E3404 /* UIColor+Swift.swift */,
 			);
 			path = Extension;
@@ -371,12 +371,12 @@
 		1193C6ED2246700D000CDF7A /* View */ = {
 			isa = PBXGroup;
 			children = (
-				1193C6EE22467040000CDF7A /* MyOtherCell.swift */,
-				1193C6EF22467040000CDF7A /* MyOtherCell.xib */,
-				1193C6F222472460000CDF7A /* MyConcernCell.swift */,
-				1193C6F322472460000CDF7A /* MyConcernCell.xib */,
-				1193C6FC224789C4000CDF7A /* MyConcernCollectCell.swift */,
-				1193C6FD224789C4000CDF7A /* MyConcernCollectCell.xib */,
+				1193C70522491590000CDF7A /* MyConcernCell.swift */,
+				1193C70222491590000CDF7A /* MyConcernCell.xib */,
+				1193C70322491590000CDF7A /* MyConcernCollectCell.swift */,
+				1193C7012249158F000CDF7A /* MyConcernCollectCell.xib */,
+				1193C70422491590000CDF7A /* MyOtherCell.swift */,
+				1193C7002249158F000CDF7A /* MyOtherCell.xib */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -504,10 +504,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1193C6F122467040000CDF7A /* MyOtherCell.xib in Resources */,
-				1193C6F522472460000CDF7A /* MyConcernCell.xib in Resources */,
+				1193C70622491590000CDF7A /* MyOtherCell.xib in Resources */,
+				1193C70822491590000CDF7A /* MyConcernCell.xib in Resources */,
 				11838E152243205F00E097EE /* LaunchScreen.storyboard in Resources */,
-				1193C6FF224789C4000CDF7A /* MyConcernCollectCell.xib in Resources */,
+				1193C70722491590000CDF7A /* MyConcernCollectCell.xib in Resources */,
 				11838E122243205F00E097EE /* Assets.xcassets in Resources */,
 				11838E102243205C00E097EE /* Main.storyboard in Resources */,
 			);
@@ -579,24 +579,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1193C6F422472460000CDF7A /* MyConcernCell.swift in Sources */,
 				112B86C02244784E002E3404 /* SKTabBarController.swift in Sources */,
-				1193C6F72247286D000CDF7A /* UIViw+Extension.swift in Sources */,
+				1193C70922491590000CDF7A /* MyConcernCollectCell.swift in Sources */,
+				1193C70F224915B3000CDF7A /* UITableView+Extension.swift in Sources */,
 				112B86BF2244784E002E3404 /* ProfileVC.swift in Sources */,
+				1193C711224915B3000CDF7A /* UIViw+Extension.swift in Sources */,
 				112B86BD2244784E002E3404 /* VideoVC.swift in Sources */,
-				1193C6FE224789C4000CDF7A /* MyConcernCollectCell.swift in Sources */,
 				112B86C12244784E002E3404 /* SKTabbar.swift in Sources */,
 				1193C6E7224604B1000CDF7A /* NetTool.swift in Sources */,
 				112B86C522447C18002E3404 /* Common.swift in Sources */,
 				112B86BC2244784E002E3404 /* HomeVC.swift in Sources */,
 				1193C6EC22461278000CDF7A /* MyCellModel.swift in Sources */,
-				1193C6F022467040000CDF7A /* MyOtherCell.swift in Sources */,
+				1193C70A22491590000CDF7A /* MyOtherCell.swift in Sources */,
+				1193C70B22491590000CDF7A /* MyConcernCell.swift in Sources */,
 				11838E0D2243205C00E097EE /* ViewController.swift in Sources */,
 				112B86C822447D28002E3404 /* UIColor+Swift.swift in Sources */,
 				11838E0B2243205C00E097EE /* AppDelegate.swift in Sources */,
+				1193C710224915B3000CDF7A /* UICollectionView+Extension.swift in Sources */,
 				112B86BE2244784E002E3404 /* HuoShanVC.swift in Sources */,
-				1193C6F922472905000CDF7A /* UITableView+Extension.swift in Sources */,
-				1193C6FB22472DA3000CDF7A /* UICollectionView+Extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -775,7 +775,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = SK_TodayNews/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = "AlexanderYeah.SK-TodayNews";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
@@ -791,7 +794,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = SK_TodayNews/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = "AlexanderYeah.SK-TodayNews";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
@@ -806,7 +812,11 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = SK_TodayNewsTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = "AlexanderYeah.SK-TodayNewsTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
@@ -822,7 +832,11 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = SK_TodayNewsTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = "AlexanderYeah.SK-TodayNewsTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
@@ -837,7 +851,11 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = SK_TodayNewsUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = "AlexanderYeah.SK-TodayNewsUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
@@ -852,7 +870,11 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = SK_TodayNewsUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = "AlexanderYeah.SK-TodayNewsUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
