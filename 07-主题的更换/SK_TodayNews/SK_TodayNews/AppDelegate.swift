@@ -17,7 +17,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey : Any]? = nil) -> Bool {
         
         
-        
         // 加载主题色
         let is_sel = UserDefaults.standard.bool(forKey: "DayAndNight")
         MyTheme.swichNight(is_sel);
@@ -25,8 +24,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         window = UIWindow.init(frame:UIScreen.main.bounds);
         window?.backgroundColor = UIColor.white;
-        window?.makeKeyAndVisible();
-        
+        window?.makeKeyAndVisible();        
         window?.rootViewController = SKTabBarController();
         
         return true
